@@ -1,6 +1,6 @@
 public class Circle {
-    double radius;
-    String color;
+    public double radius;
+    public String color;
 
     public Circle() {
 
